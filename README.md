@@ -1,5 +1,4 @@
-
-## Hi there 👋# 💫 About Me:
+💫 About Me:
 📈 Exploring Data Analytics, Business Intelligence, and Visualization<br>🌱 Continuously improving my skills in SQL, Python, Excel, and Power BI<br>💡 Enjoy solving real-world problems using data<br>🎯 Goal: Build impactful, data-driven solutions as a Data Analyst
 
 
